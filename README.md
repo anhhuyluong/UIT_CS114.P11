@@ -21,7 +21,6 @@
 * *Khoa:* Khoa học Máy tính
 * *Lớp:* KHMT 2022.2
 
-# Quá trình: 
 
 ## Đồ án cuối kỳ:
 * *Tên đồ án:* 
