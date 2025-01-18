@@ -23,8 +23,10 @@
 
 
 ## Đồ án cuối kỳ:
-* *Tên đồ án:* 
-* *Thư mục:*
+* *Tên đồ án 1: Dự đoán điểm từ dữ liệu Wecode* 
+* *Thư mục: ScorePrediction*
+* *Tên đồ án 2: Nhận diện hãng xe qua ảnh chụp*
+* *Thư mục: CarBrandDetection*
 
 ## Thành viên nhóm: 
 | STT    | MSSV          | Họ và Tên              |Vai trò    | Github                                                  | Email                   |
